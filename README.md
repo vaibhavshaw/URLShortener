@@ -1,10 +1,12 @@
 # URLShortener
 
-Tools and Technologies : Django 2.2.2, Python 3.7, MongoDB, VSCode, Django Templates, HTML, CSS, Bootstrap4
+Tools and Technologies :  Django 2.2.2, Python 3.7, MongoDB, VSCode.
 
-Virtual Environment Test Database SqLite3
+Front End Technologies :  Django Templates, HTML, CSS, Bootstrap4
 
-Production Database MongoDB(mlab)
+Virtual Environment Test Database :  SqLite3 (Default db)
+
+Production Database :  MongoDB  Refer  @mlab.com
 
 
 Description:
