@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'URLProject.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        # 'HOST': 'mongodb://vaibhav:vaibhav1@ds231517.mlab.com:31517/djangodb',
-        # 'USER': 'vaibhav',
-        # 'PASSWORD': 'vaibhav1',
+        'ENGINE': 'djongo',
+        'NAME': 'djangodb',
+        'HOST': 'mongodb://vaibhav:vaibhav1@ds231517.mlab.com:31517/djangodb',
+        'USER': 'vaibhav',
+        'PASSWORD': 'vaibhav1',
     }
 }
 
