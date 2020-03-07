@@ -17,7 +17,7 @@ It then requests the application as (domain_name/code).
 
 Using the URL pattern in Django it fetches the code and get the mapped URL updated in the database.
 
-Simply creates a link with an additional prefix (vit.ly) and redirects to the original URL.
+Simply creates a link with an additional prefix as domain name and redirects to the original URL.
 
 
 check it out @http://myvitly.herokuapp.com/
