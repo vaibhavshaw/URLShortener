@@ -6,7 +6,7 @@ Front End Technologies :  Django Templates, HTML, CSS, Bootstrap4
 
 Virtual Environment Test Database :  SqLite3 (Default db)
 
-Production Database :  MongoDB  Refer  @mlab.com
+Production Database :  MongoDB  Refer  @http://mlab.com
 
 
 Description:
