@@ -1,0 +1,9 @@
+{% extends "base.html" %} {% block title %}
+<div>
+  <h4>Created!</h4>
+  <p>{{ object.url }}</p>
+  <h5>Click to Redirect!</h5>
+  <p><a href="{{ object.get_short_url }}">{{ object.get_url }}</a></p>
+  <p><a class="btn btn-primary" href="/">NEW &lsaquo;</a></p>
+</div>
+{% endblock %}
