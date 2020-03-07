@@ -24,3 +24,14 @@ Simply creates a link with an additional prefix as domain name and redirects to 
 
 check it out @http://myvitly.herokuapp.com/
 
+
+See applications of the project:
+
+Original domain name  :   @http://myvitly.herokuapp.com/
+
+
+Generated URL for the original domain  :    @http://myvitly.herokuapp.com/XZ4JO4/
+
+Both redirect to the same destination
+
+
