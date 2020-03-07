@@ -28,5 +28,5 @@ class ShortenDB(models.Model):
     def get_url(self):
         url_path = reverse(
             "scode", kwargs={'shortcode': self.shortcode})
-        prefix = "http://vit.ly"
+        prefix = "http://myvitly.herokuapp.com"
         return prefix+url_path
