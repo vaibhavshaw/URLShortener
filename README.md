@@ -11,7 +11,7 @@ Production Database :  MongoDB  Refer  @http://mlab.com
 
 Description:
 
-This Application takes in a URL and generates a code of alphanumeric characters of size six. 
+This Application takes in a URL and generates a code in alphanumeric characters of size six. 
 
 After generating the code it maps the generated code with the provided URL in the MongoDB database.
 
